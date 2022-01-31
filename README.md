@@ -1,8 +1,9 @@
+![thumbnail](https://user-images.githubusercontent.com/13791385/151838363-f7ab53a0-db8a-46dd-9aa1-e4aa0d3586f7.png)
 
 
 # Hotsite - Alura Cases! (Curso - Next.js: Iniciando no framework)
 
-<img src="https://user-images.githubusercontent.com/3089882/136043109-1fc85faa-8cfb-4056-a144-98f0f75c2565.png" alt="Imagem do Alura MIDI" width="50%">
+![image](https://user-images.githubusercontent.com/13791385/151838604-c6e1c42a-6ea9-4059-8973-b5d588158b9c.png)
 
 
 ## 🔨 Funcionalidades do projeto
@@ -15,14 +16,19 @@
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](TODO).
+[Veja o projeto final do curso em funcionamento](https://devsoutinho-curso-nextjs-alura-01.vercel.app/).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+Para abrir e rodar o projeto, você precisa ir para o ultimo branch criado (olhe os Pull Requests para isso) e rodar os comandos
+
+```js
+yarn install
+yarn dev
+```
 
 ## 📚 Mais informações do curso
 
-Busque na plataforma da Alura o curso **JavaScript para web: crie páginas dinâmicas** publicado na Escola Frontend.
+Busque na plataforma da Alura o curso **Next.js: Iniciando no framework** publicado na Escola Frontend.
