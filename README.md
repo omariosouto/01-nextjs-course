@@ -31,4 +31,4 @@ yarn dev
 
 ## 📚 Mais informações do curso
 
-Busque na plataforma da Alura o curso **Next.js: Iniciando no framework** publicado na Escola Frontend.
+Busque na plataforma da Alura o curso [**Next.js: Iniciando no framework**](https://www.alura.com.br/curso-online-next-js-iniciando-framework) publicado na Escola Frontend.
