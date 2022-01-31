@@ -5,14 +5,14 @@
 
 ![image](https://user-images.githubusercontent.com/13791385/151838604-c6e1c42a-6ea9-4059-8973-b5d588158b9c.png)
 
-
+<!-- 
 ## 🔨 Funcionalidades do projeto
 
 ...
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ...
+- ... -->
 
 ## 📁 Acesso ao projeto
 
