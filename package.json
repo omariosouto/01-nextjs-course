@@ -1,0 +1,19 @@
+{
+  "name": "alura-cases-divulgacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/omariosouto/01-nextjs-course.git",
+  "author": "Mario Souto <13791385+omariosouto@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.0.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
